@@ -1,0 +1,40 @@
+--- INSTALLATION INSTRUCTIONS ---
+
+1. Start Unity.
+  Ideally, make sure you're in a new, clean project
+  (ESPECIALLY IF YOU ARE UPGRADING THE ASSET).
+  To do this, go to "File" -> "New Project".
+
+2. In the top menu, go to "Assets" -> "Import Package" -> "Custom Package".
+
+3. Navigate to and select your purchased *.unitypackage file.
+   Unity should start decompressing it automatically.
+
+4. When done uncompressing, Unity will open a dialog titled 'Importing package'.
+   Click "All", then "Import".
+   When the package has finished importing, a new folder with the asset's name
+   should become available in the "Project" view.
+
+6. In the root of this folder you will find an Adobe PDF document containing
+   documentation for the asset. Double-click on this asset to get started.
+
+7. IF YOU ARE UPDATING THE ASSET: be sure to carefully read the release notes.
+
+--- UPDATE INSTRUCTIONS ---
+
+1. Upon purchase, you received an email from Opsive Support with the subject line: "Your <asset name> File Download".
+
+2. Locate this email and click the link to download the latest version.
+
+3. It is highly recommended to make a backup of this link for future updates.
+
+---
+
+That's about it.
+
+Good luck and have fun!
+
+Opsive team
+
+
+

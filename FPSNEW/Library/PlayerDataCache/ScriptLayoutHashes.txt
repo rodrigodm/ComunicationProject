@@ -1,5 +1,5 @@
 WindowsStandalone
-940a3650dc0f7e948aa0fdde1eb251de Assembly-CSharp.dll:.PauseMenu
+abadc0fd1f80dcbf42f9171701aeffd9 Assembly-CSharp.dll:.PauseMenu
 ed1894c3690d63d6cc61da4865b7b845 Assembly-CSharp.dll:.vp_ItemPickup
 097bdc7692ac408d981b942d1aaa7059 Assembly-CSharp.dll:.vp_SurfaceManager
 7f1a2dcdbe517b14e19bcbb3993501de Assembly-CSharp.dll:.vp_Regenerator
